@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gallery on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
-    <link>http://example.org/gallery/</link>
-    <description>Recent content in Gallery on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <title>Gallery on Code for Pantanal</title>
+    <link>https://code4pantanal.github.io/gallery/</link>
+    <description>Recent content in Gallery on Code for Pantanal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://code4pantanal.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
